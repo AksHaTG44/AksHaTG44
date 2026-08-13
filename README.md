@@ -114,19 +114,6 @@ Ranked **1st out of 10,000+ participants**, applying analytical and predictive r
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatgoyal44&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatgoyal44&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatgoyal44&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</p>
-
----
-
 <p align="center">
   <i>Open to opportunities in Data Analytics, AI/ML, and Financial Technology.</i>
 </p>
