@@ -110,7 +110,14 @@ Ranked **1st out of 10,000+ participants**, applying analytical and predictive r
 | Play-Ways Senior Secondary School | Class XII (PCM) — 96.6% | 2023 |
 | The British Co-Ed High School (I.C.S.E.) | Class X — 80.6% | 2021 |
 
-**Relevant Coursework:** Database Management Systems · Artificial Intelligence · Operating Systems · Probability & Statistics · Financial Markets & Portfolio Theory · Finance, Accounting & Valuation · Professional Communication
+**Relevant Coursework:** 
+· Database Management Systems 
+· Artificial Intelligence 
+· Operating Systems 
+· Probability & Statistics 
+· Financial Markets & Portfolio Theory 
+· Finance, Accounting & Valuation 
+· Professional Communication
 
 ---
 
